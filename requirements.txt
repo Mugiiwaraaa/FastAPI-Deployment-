@@ -1,0 +1,12 @@
+fastapi==0.83.0
+numpy==1.23.1
+pandas==1.4.3
+pydantic==1.9.1
+uvicorn==0.18.3
+numpy
+scipy
+scikit-learn
+matplotlib
+gunicorn==19.9.0
+uvloop
+httptools
